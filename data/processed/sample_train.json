@@ -1,0 +1,20 @@
+[
+  {
+    "pmcid": "PMC123456",
+    "segment_id": "1",
+    "positive": "This is a sample text about space biology research.",
+    "negative": "This is an unrelated text about computer science."
+  },
+  {
+    "pmcid": "PMC123457",
+    "segment_id": "1",
+    "positive": "NASA has conducted numerous experiments on the ISS related to microgravity effects on human physiology.",
+    "negative": "The weather forecast predicts rain tomorrow."
+  },
+  {
+    "pmcid": "PMC123458",
+    "segment_id": "1",
+    "positive": "Astronauts experience bone density loss during extended space missions.",
+    "negative": "The new restaurant downtown serves excellent Italian cuisine."
+  }
+]
